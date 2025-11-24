@@ -1,0 +1,184 @@
+2025-11-24 22:26:59,531 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:26:59,531 - INFO - MarketHours24h2000Scraper - Waiting for market to open…
+2025-11-24 22:27:09,533 - INFO - MarketHours24h2000Scraper - Waiting for market to open…
+2025-11-24 22:27:19,534 - INFO - MarketHours24h2000Scraper - Waiting for market to open…
+2025-11-24 22:27:29,535 - INFO - MarketHours24h2000Scraper - Waiting for market to open…
+2025-11-24 22:27:39,537 - INFO - MarketHours24h2000Scraper - Waiting for market to open…
+2025-11-24 22:31:02,964 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:31:02,965 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:31:02,967 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:31:02,969 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:31:02,969 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:31:02,970 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:31:02,970 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:31:47,279 - INFO - MarketHours24h2000Scraper - [#sensex] thread closed
+2025-11-24 22:32:08,095 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:32:08,095 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 22:35:30,582 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:35:30,583 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:35:30,583 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:35:30,585 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:35:30,585 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:35:30,586 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:35:30,586 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:36:05,412 - INFO - MarketHours24h2000Scraper - [#sensex] thread closed
+2025-11-24 22:36:05,640 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:36:05,640 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 22:40:55,421 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:40:55,422 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:40:55,422 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:40:55,424 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:40:55,424 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:40:55,425 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:40:55,425 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:41:00,433 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:41:00,434 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 22:43:29,878 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:43:29,878 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:43:29,879 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:43:29,880 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:43:29,881 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:43:29,881 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:43:29,881 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:43:49,288 - INFO - MarketHours24h2000Scraper - [#nifty50] thread closed
+2025-11-24 22:43:54,931 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:43:54,931 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 22:44:32,855 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:44:32,855 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:44:32,856 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:44:32,858 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:44:32,858 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:44:32,859 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:44:32,859 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:44:51,583 - ERROR - MarketHours24h2000Scraper - [#nifty50] scrape error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6cb5ea235
+	0x7ff6cb342630
+	0x7ff6cb0d16dd
+	0x7ff6cb0bd205
+	0x7ff6cb0e2a8a
+	0x7ff6cb15a476
+	0x7ff6cb17b3d2
+	0x7ff6cb11b0ed
+	0x7ff6cb11bf63
+	0x7ff6cb615d60
+	0x7ff6cb60fe8a
+	0x7ff6cb631005
+	0x7ff6cb35d71e
+	0x7ff6cb364e1f
+	0x7ff6cb34b7c4
+	0x7ff6cb34b97f
+	0x7ff6cb3318e8
+	0x7ffff682e8d7
+	0x7ffff7c6c53c
+
+2025-11-24 22:44:51,611 - INFO - MarketHours24h2000Scraper - [#banknifty] thread closed
+2025-11-24 22:44:53,591 - INFO - MarketHours24h2000Scraper - [#nifty50] thread closed
+2025-11-24 22:44:57,910 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:44:57,911 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 22:46:40,187 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:46:40,188 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:46:40,188 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:46:40,190 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:46:40,190 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:46:40,191 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:46:40,191 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:46:58,475 - INFO - MarketHours24h2000Scraper - [#sensex] thread closed
+2025-11-24 22:46:58,679 - INFO - MarketHours24h2000Scraper - [#banknifty] thread closed
+2025-11-24 22:47:05,235 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:47:05,236 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 22:48:15,816 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:48:15,817 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:48:15,817 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:48:15,819 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:48:15,819 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:48:15,820 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:48:15,820 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:48:32,262 - ERROR - MarketHours24h2000Scraper - [#nifty50] scrape error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6cb5ea235
+	0x7ff6cb342630
+	0x7ff6cb0d16dd
+	0x7ff6cb0bd205
+	0x7ff6cb0e2a8a
+	0x7ff6cb15a476
+	0x7ff6cb17b3d2
+	0x7ff6cb11b0ed
+	0x7ff6cb11bf63
+	0x7ff6cb615d60
+	0x7ff6cb60fe8a
+	0x7ff6cb631005
+	0x7ff6cb35d71e
+	0x7ff6cb364e1f
+	0x7ff6cb34b7c4
+	0x7ff6cb34b97f
+	0x7ff6cb3318e8
+	0x7ffff682e8d7
+	0x7ffff7c6c53c
+
+2025-11-24 22:48:34,285 - INFO - MarketHours24h2000Scraper - [#nifty50] thread closed
+2025-11-24 22:48:40,883 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:48:40,883 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 22:51:43,586 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:51:43,586 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:51:43,587 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:51:43,588 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:51:43,589 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:51:43,589 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:51:43,589 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:52:53,677 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:52:53,677 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 22:57:30,867 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:57:30,867 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:57:30,867 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:57:30,870 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:57:30,870 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:57:30,870 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:57:30,871 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:58:25,957 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:58:25,957 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 22:58:31,566 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 22:58:31,567 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 22:58:31,567 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 22:58:31,569 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 22:58:31,569 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 22:58:31,570 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 22:58:31,570 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 22:59:41,659 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 22:59:41,659 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 23:00:21,865 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 23:00:21,865 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 23:00:21,866 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 23:00:21,867 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 23:00:21,868 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 23:00:21,868 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 23:00:21,869 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 23:01:06,937 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 23:01:06,937 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 23:05:55,182 - INFO - MarketHours24h2000Scraper -  Market Hours + Last 24h + 2000 Tweets Filter
+2025-11-24 23:05:55,183 - INFO - MarketHours24h2000Scraper - Debug mode: Skipping wait — Starting now!
+2025-11-24 23:05:55,183 - INFO - MarketHours24h2000Scraper -  Market Open — Scraping started!
+2025-11-24 23:05:55,185 - INFO - MarketHours24h2000Scraper - [#nifty50] scraper started
+2025-11-24 23:05:55,185 - INFO - MarketHours24h2000Scraper - [#sensex] scraper started
+2025-11-24 23:05:55,185 - INFO - MarketHours24h2000Scraper - [#banknifty] scraper started
+2025-11-24 23:05:55,186 - INFO - MarketHours24h2000Scraper - [#intraday] scraper started
+2025-11-24 23:06:25,244 - INFO - MarketHours24h2000Scraper - [writer] completed
+2025-11-24 23:06:25,244 - INFO - MarketHours24h2000Scraper -  DONE — Collected: 0 tweets
+2025-11-24 23:15:25,396 - INFO - FullScraperSingleDriver -  Full Scraper: Last 24h, up to 2000 tweets, single driver + threaded writer
+2025-11-24 23:15:25,961 - INFO - FullScraperSingleDriver - [#nifty50] scraping started
+2025-11-24 23:15:27,493 - INFO - FullScraperSingleDriver - Driver closed
+2025-11-24 23:23:43,114 - INFO - FullScraperSingleDriver -  Full Scraper: Last 24h, up to 2000 tweets, single driver + threaded writer
+2025-11-24 23:23:44,660 - INFO - FullScraperSingleDriver - [#nifty50] scraping started
+2025-11-24 23:23:45,945 - INFO - FullScraperSingleDriver - Driver closed
+2025-11-24 23:23:55,683 - INFO - FullScraperSingleDriver -  Full Scraper: Last 24h, up to 2000 tweets, single driver + threaded writer
+2025-11-24 23:23:57,214 - INFO - FullScraperSingleDriver - [#nifty50] scraping started
+2025-11-24 23:23:58,750 - INFO - FullScraperSingleDriver - Driver closed
+2025-11-24 23:26:32,025 - INFO - FullScraperSingleDriver -  Full Scraper: Last 24h, up to 2000 tweets, single driver + threaded writer
+2025-11-24 23:26:33,553 - INFO - FullScraperSingleDriver - [#nifty50] scraping started
+2025-11-24 23:26:35,130 - INFO - FullScraperSingleDriver - Driver closed

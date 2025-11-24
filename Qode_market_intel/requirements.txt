@@ -1,0 +1,11 @@
+selenium
+undetected-chromedriver
+pandas
+pyarrow
+numpy
+scikit-learn
+matplotlib
+tqdm
+python-dotenv
+loguru
+textblob

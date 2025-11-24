@@ -1,0 +1,15 @@
+qode-market-intel/
+  ├─ src/
+  │   ├─ collectors/
+  │   ├─ processing/
+  │   ├─ analysis/
+  │   └─ utils/
+  ├─ notebooks/
+  ├─ data/
+  │   ├─ raw/
+  │   └─ processed/
+  ├─ tests/
+  ├─ logs/
+  ├─ README.md
+  ├─ requirements.txt
+  └─ .gitignore
